@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">dbTrialTwo</string>
+    <string name="btnsaveoption">Save</string>
+    <string name="btnDisplayOption">Display</string>
+</resources>
